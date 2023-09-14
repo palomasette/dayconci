@@ -1,0 +1,7 @@
+.env
+__pycache__
+.vscode
+dayconcivenv
+historico
+install_python.bat
+POS_DAYCOVAL.CSV
